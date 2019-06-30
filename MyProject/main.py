@@ -56,4 +56,4 @@ def post_update(id):
         print('hi')
         return render_template('post-update.html', post=post)
 
-app.run()
+
